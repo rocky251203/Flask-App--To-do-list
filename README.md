@@ -10,5 +10,8 @@
  application on a platform like Heroku or PythonAnywhere. Upload your Flask application code
  and deployment link to your GitHub repository.
 
+ LINK TO AXCESS MY WEB APPLICATION: Using Python Anywhere Platform
+ >>>>> https://rakeshkumar25.pythonanywhere.com/
+
 
  ![image](https://github.com/user-attachments/assets/19109a01-abad-4973-9945-d08213ddcd56)
